@@ -26,6 +26,6 @@ SOFTWARE.
 
 class Usuario:
 
-   correo = "botravnin@gmail.com" 
-   clave = "Contraseña"
-   sid = "Coloca tu sid"
+   correo = "e5irgt7mg@1secmail.net" 
+   clave = "Poto12"
+   sid = "CAnsiMSI6IG51bGwsICIwIjogMiwgIjMiOiAwLCAiMiI6ICIwZTY4NDk4NS05NjI3LTQxODktOWJiZi01NDEwZjI4YjkyMmUiLCAiNSI6IDE2NTk3NzkyNzQsICI0IjogIjE5MC40My4yMjkuOTEiLCAiNiI6IDEwMH2cq5vN63b9tjRqCjpZtCWpp0-JgA"
